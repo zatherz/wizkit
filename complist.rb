@@ -5,7 +5,8 @@ CHILD_EXCLUDE = [
 	"text",
 	"comment",
 	"Base",
-	"Entity"
+	"Entity",
+	"_Transform"
 ]
 
 data_dir = ARGV[0]
